@@ -1,6 +1,7 @@
 Revision history for Map::Tube::CLI
 
-v0.85.0 Tue Jun 09 12:00:00 2026 (GWS)
+v0.85.0 Wed Jun 10 01:45:00 2026 (GWS)
+      This release prepared by @GWS
       - Updated README.
       - Introduced short options (in additon to long options).
       - Added option --version/-V.
